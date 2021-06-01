@@ -1,7 +1,7 @@
 var webdriver = require('selenium-webdriver');
 
-var userName = "jackbentley4";
-var accessKey = "kmTw8uuZqPHjW6ryBsvb"
+var userName = "";
+var accessKey = ""
 var browserstackURL = 'https://' +  userName + ':' + accessKey + '@hub-cloud.browserstack.com/wd/hub';
 
 // Input capabilities
